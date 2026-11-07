@@ -21,7 +21,7 @@
 2. 点 **添加插件市场（Add marketplace）**，填入本仓库地址：
 
    ```
-   https://github.com/<你的GitHub用户名>/zcode-plugins
+   https://github.com/yu-xiao/zcode-plugins
    ```
 
    （也支持 Git URL / 本地目录；本地开发可直接选本 `plugins/` 目录）
