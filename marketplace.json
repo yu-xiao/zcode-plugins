@@ -1,0 +1,18 @@
+{
+  "name": "zcode-plugins",
+  "plugins": [
+    {
+      "name": "multi-model-pipeline",
+      "source": "./multi-model-pipeline",
+      "version": "0.2.0",
+      "description": "Multi-Model Pipeline: GPT writes requirements & acceptance criteria, DeepSeek develops, GLM tests, GPT accepts. Document-driven handoff with real-test gating, driven by the /pipeline command.",
+      "displayName": "Multi-Model Pipeline",
+      "displayName_i18n": {
+        "zh-CN": "多模型流水线"
+      },
+      "description_i18n": {
+        "zh-CN": "多模型主管-专员流水线：GPT 需求与验收、DeepSeek 开发、GLM 测试；文档交接、真实测试门禁，通过 /pipeline 命令驱动。"
+      }
+    }
+  ]
+}

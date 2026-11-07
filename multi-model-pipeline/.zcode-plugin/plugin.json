@@ -1,0 +1,15 @@
+{
+  "name": "multi-model-pipeline",
+  "version": "0.2.0",
+  "description": "Multi-Model Pipeline: a Supervisor-Worker pipeline where GPT writes requirements & acceptance criteria, DeepSeek develops, GLM tests, and GPT accepts. Document-driven handoff with real-test gating, driven by the /pipeline command.",
+  "description_i18n": {
+    "en": "Multi-Model Pipeline: GPT analyst/acceptor, DeepSeek developer, GLM tester. Document-driven handoff, real-test gating, driven by /pipeline.",
+    "zh-CN": "多模型主管-专员流水线：GPT 负责需求与验收，DeepSeek 负责开发，GLM 负责测试；文档交接、真实测试门禁，通过 /pipeline 命令驱动。"
+  },
+  "author": {
+    "name": "NewProject"
+  },
+  "agents": "agents",
+  "commands": "commands",
+  "skills": "skills"
+}
